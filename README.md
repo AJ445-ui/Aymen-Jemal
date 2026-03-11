@@ -1,1 +1,0 @@
-Student learning Web Development. Passionate about building simple and creative websites using HTML and CSS. Currently improving my coding skills and exploring new technologies. Interested in web design, programming, and creating useful digital projects.
